@@ -24,8 +24,8 @@ Country Country where the transaction occurred
 
 1- Load the dataset - display the first 7 rows
 
-
-
+df = pd.read_csv("/content/Online_Retail.xlsx - Online Retail.csv")
+df.head(7)
 
 
 
